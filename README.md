@@ -28,7 +28,7 @@ The following CSV files are used in the views for generating the respective visu
 
     ```bash
     git clone https://github.com/adamdebrouwere/alc-can-bokeh-vis-backend.git
-    cd https://github.com/adamdebrouwere/alc-can-bokeh-vis-backend.git
+    cd alc-can-bokeh-vis-backend
     ```
 
 2. Install dependencies:
