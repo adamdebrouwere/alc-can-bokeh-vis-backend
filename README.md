@@ -22,6 +22,27 @@ The following CSV files are used in the views for generating the respective visu
 - `yearly_alcohol_sales.csv`: Contains yearly sales data for alcohol.
 - `yearly_cannabis_sales.csv`: Contains yearly sales data for cannabis.
 
+- ## Installation
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/adamdebrouwere/alc-can-bokeh-vis-backend.git
+    cd https://github.com/adamdebrouwere/alc-can-bokeh-vis-backend.git
+    ```
+
+2. Install dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Start the development server:
+
+    ```bash
+    python manage.py runserver
+    ```
+
 ## Conclusion
 
 This Django-based backend provides interactive data visualizations for alcohol and cannabis consumption and sales trends in Canada. The views leverage dynamic chart generation and display data in various formats (line plots, bar charts, and pie charts), allowing for easy analysis of trends in these sectors.
