@@ -1,0 +1,58 @@
+# Created by https://www.gitignore.io
+
+### OSX ###
+DS_Store
+AppleDouble
+LSOverride
+Icon
+_*
+Spotlight-V100
+Trashes
+AppleDB
+AppleDesktop
+Network Trash Folder
+Temporary Items
+apdisk
+
+### Python ###
+__pycache__/
+*.py[cod]
+*.so
+Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+installed.cfg
+*.egg
+pip-log.txt
+pip-delete-this-directory.txt
+htmlcov/
+tox/
+coverage
+cache
+nosetests.xml
+coverage.xml
+*.mo
+*.pot
+docs/_build/
+target/
+
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+env
+db.sqlite3
+
+.env
