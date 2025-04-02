@@ -1,6 +1,6 @@
 # Alcohol and Cannabis Data Analysis - Django Views
 
-This project contains a set of Django views and data cleaners that generate various visualizations related to alcohol and cannabis consumption and market trends in Canada. To clean the data I use pandas, then create new csv files served to the views which, process data, generate responses, and return JSON responses with dynamic data visualizations. See the project fully deployed [here](https://alc-can-market-analysis.netlify.app/).
+This project contains a set of Django views and data cleaners that generate various visualizations related to alcohol and cannabis consumption and market trends in Canada. To clean the data I use pandas, then create new csv files served to the views which process data, generate responses, and return JSON responses with dynamic data visualizations. See the project fully deployed [here](https://alc-can-market-analysis.netlify.app/).
 
 ## Features
 
